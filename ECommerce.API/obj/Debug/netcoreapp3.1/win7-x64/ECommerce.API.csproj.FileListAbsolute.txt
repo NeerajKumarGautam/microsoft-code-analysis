@@ -392,3 +392,10 @@ D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\E
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.genruntimeconfig.cache
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.csproj.CoreCompileInputs.cache
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.csprojAssemblyReference.cache
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.csproj.CoreCompileInputs.cache
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.AssemblyInfoInputs.cache
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.AssemblyInfo.cs
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.dll
+D:\code-analysis\microsoft-code-analysis\ECommerce.API\obj\Debug\netcoreapp3.1\win7-x64\ECommerce.API.pdb

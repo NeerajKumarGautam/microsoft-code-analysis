@@ -861,11 +861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
+      "projectUniqueName": "D:\\code-analysis\\microsoft-code-analysis\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
       "projectName": "ECommerce.ProductCatalog",
-      "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
+      "projectPath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
       "packagesPath": "C:\\Users\\gneeraj\\.nuget\\packages\\",
-      "outputPath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerce.ProductCatalog\\obj\\",
+      "outputPath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerce.ProductCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -886,8 +886,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj": {
-              "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj"
+            "D:\\code-analysis\\microsoft-code-analysis\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj": {
+              "projectPath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj"
             }
           }
         }

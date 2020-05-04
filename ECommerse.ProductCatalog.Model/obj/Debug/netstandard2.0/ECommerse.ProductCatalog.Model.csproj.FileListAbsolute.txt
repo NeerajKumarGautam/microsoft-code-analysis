@@ -7,3 +7,12 @@ D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerse.ProductCatalog.Model\obj\Debug\netstan
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.dll
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.pdb
 D:\D5\ServiceFabric\Ecomm\Ecomm\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.csprojAssemblyReference.cache
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.deps.json
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.dll
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.pdb
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.csprojAssemblyReference.cache
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.csproj.CoreCompileInputs.cache
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.AssemblyInfoInputs.cache
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.AssemblyInfo.cs
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.dll
+D:\code-analysis\microsoft-code-analysis\ECommerse.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerse.ProductCatalog.Model.pdb

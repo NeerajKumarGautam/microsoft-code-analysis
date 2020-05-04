@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nprnn36WRnGKQySXVmeu10r/ao+Nf0NRVYvboB59JHRA6QQ+UcW76GGEfYHx7MyM3YH/NDTc3P8CgH/7a+6TDA==",
+  "dgSpecHash": "Wh/ziCIfpUmZoX/gv8ghUNuhqcTeiHytpP5yxbEXmiT5N6i8PI9m7wYTTRAm/LvbwYe1s181lKbafbzsz7ReYA==",
   "success": true,
-  "projectFilePath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
+  "projectFilePath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerce.ProductCatalog\\ECommerce.ProductCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric\\7.0.470\\microsoft.servicefabric.7.0.470.nupkg.sha512",
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.data\\4.0.470\\microsoft.servicefabric.data.4.0.470.nupkg.sha512",
@@ -12,8 +12,8 @@
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.0.470\\microsoft.servicefabric.fabrictransport.internal.4.0.470.nupkg.sha512",
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.services\\4.0.470\\microsoft.servicefabric.services.4.0.470.nupkg.sha512",
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.0.470\\microsoft.servicefabric.services.remoting.4.0.470.nupkg.sha512",
-    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
     "C:\\Users\\gneeraj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
   ],
   "logs": []

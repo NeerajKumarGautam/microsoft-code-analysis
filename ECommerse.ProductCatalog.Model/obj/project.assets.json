@@ -883,11 +883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
+      "projectUniqueName": "D:\\code-analysis\\microsoft-code-analysis\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
       "projectName": "ECommerse.ProductCatalog.Model",
-      "projectPath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
+      "projectPath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerse.ProductCatalog.Model\\ECommerse.ProductCatalog.Model.csproj",
       "packagesPath": "C:\\Users\\gneeraj\\.nuget\\packages\\",
-      "outputPath": "D:\\D5\\ServiceFabric\\Ecomm\\Ecomm\\ECommerse.ProductCatalog.Model\\obj\\",
+      "outputPath": "D:\\code-analysis\\microsoft-code-analysis\\ECommerse.ProductCatalog.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
