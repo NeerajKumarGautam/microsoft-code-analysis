@@ -16,7 +16,7 @@ namespace ECommerce.API.Controllers
     public class ProductsController : ControllerBase
     {
 
-        public static readonly string Product_Details = "";
+        private static  string Product_Details = "";
 
         private readonly IProductCatalogService _service;
         public ProductsController()

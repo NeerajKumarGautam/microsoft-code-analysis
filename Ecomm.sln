@@ -13,6 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.API", "ECommerce.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45EBFA4B-33B4-42A4-B074-1D95D5C90DF8}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		globalmantics.ruleset = globalmantics.ruleset
 	EndProjectSection
 EndProject
