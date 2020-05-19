@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using ECommerce.API.Model;
+﻿using ECommerce.API.Model;
 using ECommerse.ProductCatalog.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.ServiceFabric.Services.Client;
 using Microsoft.ServiceFabric.Services.Remoting.Client;
 using Microsoft.ServiceFabric.Services.Remoting.V2.FabricTransport.Client;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ECommerce.API.Controllers
 {
@@ -16,7 +16,8 @@ namespace ECommerce.API.Controllers
     public class ProductsController : ControllerBase
     {
 
-        private static  string Product_Details = "";
+        private static readonly string Product_Details = "";
+        private static readonly string Customer_Details = "";
 
         private readonly IProductCatalogService _service;
         public ProductsController()
@@ -45,7 +46,7 @@ namespace ECommerce.API.Controllers
             }
             catch (Exception e)
             {
-               // Console.WriteLine(e);
+                // Console.WriteLine(e);
 
             }
             return product;
