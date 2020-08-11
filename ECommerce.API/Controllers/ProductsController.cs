@@ -46,7 +46,7 @@ namespace ECommerce.API.Controllers
             }
             catch (Exception e)
             {
-                // Console.WriteLine(e);
+                 Console.WriteLine(e);
 
             }
             return product;
